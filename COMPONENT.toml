@@ -1,0 +1,16 @@
+[component]
+name = "SigmaOS-tools-command-code"
+tier = 3
+stability = "stable"
+language = "rust"
+description = "Autonomous terminal command code assistant, interactive REPL runner, and session auditing"
+upstream = []
+
+[contract]
+provides = ['command-code-agent', 'terminal-repl-auditor']
+depends_on = []
+
+[maturity]
+status = "Production"
+test_evidence = "Unit tested (AAA pattern)"
+next_milestone = "Ecosystem integration"

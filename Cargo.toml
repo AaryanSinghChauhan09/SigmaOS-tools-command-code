@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_tools_command_code"
+version = "0.1.0"
+edition = "2021"
+description = "Autonomous terminal command code assistant, interactive REPL runner, and session auditing"
+
+[lib]
+name = "sigmaos_tools_command_code"
+path = "src/lib.rs"
