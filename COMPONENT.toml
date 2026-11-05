@@ -14,3 +14,8 @@ depends_on = []
 status = "Production"
 test_evidence = "Unit tested (AAA pattern)"
 next_milestone = "Ecosystem integration"
+
+[consolidation]
+canonical = "SigmaOS-tools-command-code"
+aliases = ["SigmaOS-tools-commandcode"]
+status = "consolidated"
