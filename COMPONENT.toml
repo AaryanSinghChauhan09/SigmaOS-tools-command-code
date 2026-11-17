@@ -3,7 +3,7 @@ name = "SigmaOS-tools-command-code"
 tier = 3
 stability = "stable"
 language = "rust"
-description = "Autonomous terminal command code assistant, interactive REPL runner, and session auditing"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
